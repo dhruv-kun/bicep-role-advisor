@@ -3,10 +3,10 @@
 ## Overview
 This tool recommends the miniumum roles required to create the infrastructure in Azure by parsing the bicep files. 
 
-![](video/demo_1080p.gif)
+![](assets/demo_1080p.gif)
 
 ## Design Diagram
-![Design Diagram](video/design_diagram.png)
+![Design Diagram](assets/design_diagram.png)
 
 ## How to Run
 1. Clone the repository
