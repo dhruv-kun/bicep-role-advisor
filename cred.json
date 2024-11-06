@@ -1,0 +1,6 @@
+{
+    "ENDPOINT_URL": "<Your Azure OpenAI service URL>",
+    "AZURE_OPENAI_API_KEY": "<OpenAI Service API Key>",
+    "PROMPT_FLOW_API_URL": "<Prompt Flow Infrence URL>",
+    "PROMPT_FLOW_API_KEY": "<Prompt Flow API Key>"
+}
