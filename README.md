@@ -7,7 +7,7 @@ This tool recommends the miniumum roles required to create the infrastructure in
 
 ## How to Run
 1. Clone the repository
-2. Updated `cred.json`: 
+2. Update `cred.json`: 
     ```json
     {
         "ENDPOINT_URL": "<Your Azure OpenAI service URL>",
