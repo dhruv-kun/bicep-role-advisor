@@ -5,6 +5,9 @@ This tool recommends the miniumum roles required to create the infrastructure in
 
 ![](video/demo_1080p.gif)
 
+## Design Diagram
+![Design Diagram](video/design_diagram.png)
+
 ## How to Run
 1. Clone the repository
 2. Update `cred.json`: 
